@@ -81,7 +81,7 @@ npm start
 Inside the Agent Builder:
 
 -   Add MCP server URL
--   Link the "createContact" tool
+-   Link the "add_contact" tool
 -   Map parameters:
     -   name
     -   email
@@ -133,6 +133,6 @@ MIT License.
 
 ## ✨ Credits
 
-Developed by **Mahmud**\
+Developed by **Mahmud (mahmud.linked@gmail.com)**\
 AI Agent by **OpenAI Agent Builder**\
 CRM powered by **GoHighLevel**
